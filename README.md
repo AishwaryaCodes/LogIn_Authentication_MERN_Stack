@@ -1,12 +1,11 @@
 # 🚧 TaskManagerApps_MERN_Stack (Work in Progress)
 
-Welcome to the **TaskManagerApps_MERN_Stack** repository!  
+Welcome to the **LogIN Authentication_MERN_Stack** repository!  
 This project is currently under active development.
 
 ## 📌 Project Overview
 
-A full-stack Task Manager application built using the **MERN Stack** (MongoDB, Express.js, React, Node.js).  
-It allows users to manage daily tasks with features like task creation, updates, completion tracking, and user authentication.
+A Log in page with Authentication built using the **MERN Stack** (MongoDB, Express.js, React, Node.js).  
 
 ## 🛠 Tech Stack
 
@@ -24,8 +23,4 @@ It allows users to manage daily tasks with features like task creation, updates,
 ## 🚀 Features (Planned)
 
 - ✅ User Authentication (JWT)
-- ✅ Task CRUD Operations
-- 🔄 Real-time updates (WebSockets)
-- 📊 Task Analytics Dashboard
-- ☁️ Deployment via Vercel & Render
 
